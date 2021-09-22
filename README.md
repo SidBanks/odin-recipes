@@ -1,0 +1,1 @@
+A simple text and image only website for The Odin Project. This project will demonstrate the fundementals of web building.  By showing how to initialize a git project.  How to format the basic layout of the most common webpage elements.  And finally how to utilize links and images.
